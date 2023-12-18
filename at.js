@@ -3,4 +3,4 @@
 
 // Example
 const arr =['apple', 'banana', 'oranges'];
-console.log(arr.at(1)); //output: banana
+console.log(arr.at(1)); //output: 'banana'
