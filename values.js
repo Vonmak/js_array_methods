@@ -6,5 +6,5 @@ const arr= ['kevin', 'victor', 'jane'];
 const iterator = arr.values();
 
 for(const value of iterator){
-    console.log(value); //output: kevin victor jane
+    console.log(value); //output: 'kevin'  'victor'  'jane'
 }
